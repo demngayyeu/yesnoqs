@@ -1,0 +1,115 @@
+<!--
+body {
+	cursor:url("chuot.cur"), url("chuot.cur"), auto;
+	background-color: #000000;
+	background-image: url(img/background.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	font-family: tahoma;
+	font-size: 10pt;
+	color: #CCCCCC;
+	background-attachment: fixed;
+	line-height:25px;
+}
+a {
+	color: #CCCCCC;
+	text-decoration: none;
+	outline:none;
+}
+
+
+
+.layout {
+	margin:auto;
+	margin-top:20px;
+	width:900px;
+}
+.navbar {
+	background-image: url(img/navbar.png);
+	background-repeat: no-repeat;
+	height: 38px;
+	padding: 8px 10px 0px 10px;
+	text-align:right;
+}
+.navbutton {
+	background-image: url(img/navbutton_1.png);
+	background-repeat: repeat;
+	float:left;
+	height:26px;
+	padding: 2px 20px;
+	margin-right:5px;
+}
+.navbutton:hover {
+	background-image: url(img/navbutton_2.png);
+}
+.navbutton_hover {
+	background-image: url(img/navbutton_2.png);
+	background-repeat: repeat;
+	float:left;
+	height:26px;
+	padding: 2px 20px;
+	margin-right:5px;
+}
+.navbutton a {
+	height:100%;
+	display:block;
+	font-weight: bold;
+}
+.content {
+	width:898px;
+}
+.content  .c1 {
+	background: url(img/content_1.png) no-repeat center center;
+	height: 19px;
+}
+.content  .c2 {
+	background: url(img/content_2.png) repeat-y center center;
+}
+.content  .c3 {
+	background: url(img/content_3.png) no-repeat center center;
+	height: 21px;
+}
+
+.fullside {
+	width:848px;
+	padding:20px;
+}
+.leftside {
+	width:650px;
+	padding:20px;
+	float:left;
+}
+.rightside {
+	width: 180px;
+	float:left;
+}
+.rightside	.r1 {
+	background: url(img/side_1.png) no-repeat center center;
+	height:12px;
+}
+.rightside	.r2 {
+	background: url(img/side_2.png) repeat-y center center;
+	padding: 15px;
+}
+.rightside	.r3 {
+	background: url(img/side_3.png) no-repeat center center;
+	height:15px;
+}
+.item {
+	height:25px;
+	border: 1px dashed #CCCCCC;
+	margin-bottom:3px;
+	padding: 5px 5px 0px 5px;
+}
+.item:hover {
+	border: 1px double #990066;
+}
+.item a {
+	height:100%;
+	display:block;
+}
+.item a:hover {
+	text-decoration: underline;
+	color: #990066;
+}
+-->
